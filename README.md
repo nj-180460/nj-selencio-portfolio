@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Neil John Selencio!
+# 👋 Hello, I'm Neil!
 
 Welcome to my GitHub profile! I'm a **Java developer** with full-stack expertise in **Vue.js and Next.js**. I love building scalable, high-performance applications and crafting clean, maintainable code.
 
